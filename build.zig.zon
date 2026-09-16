@@ -1,0 +1,21 @@
+.{
+    .name = .yaml,
+    .version = "0.1.0",
+    .fingerprint = 0xea31a984e836a751,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "lib.zig",
+        "Parser.zig",
+        "Parser",
+        "Tokenizer.zig",
+        "Tree.zig",
+        "Yaml.zig",
+        "Yaml",
+        "stringify.zig",
+        "LICENSE",
+        "README.md",
+    },
+}
